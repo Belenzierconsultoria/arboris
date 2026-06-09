@@ -68,10 +68,11 @@ background:linear-gradient(
 );
 color:white;
 }
-
 .hero-logo{
-width:180px;
-margin-bottom:30px;
+display:block;
+width:220px;
+max-width:80%;
+margin:0 auto 30px auto;
 }
 
 .hero h1{
